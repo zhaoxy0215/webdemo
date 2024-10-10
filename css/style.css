@@ -908,4 +908,13 @@
 }
 /*** copyright end ***/
 
-
+.modify-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('logo-s.png');
+    background-size: contain;
+    background-position: center;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
