@@ -422,8 +422,7 @@
 .service .service-item .service-img {
     position: relative;
     overflow: hidden;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-radius: 10px;
     transition: 0.5s;
 }
 
