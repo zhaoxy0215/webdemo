@@ -1,8 +1,4 @@
 
-body {
-    font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', 'Meiryo', 'MS PGothic', sans-serif;
-}
-
 /*** Spinner Start ***/
 /*** Spinner ***/
 #spinner {
@@ -921,4 +917,8 @@ body {
     background-position: center;
     vertical-align: middle;
     background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, span, div, button {
+    font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', 'Meiryo', 'MS PGothic', sans-serif !important;
 }
